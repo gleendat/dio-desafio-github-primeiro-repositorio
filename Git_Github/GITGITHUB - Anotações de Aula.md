@@ -9,6 +9,7 @@
 - GIT CLONE + https... (Clona o repositório remoto para a sua máquina)
 - GIT REMOTE SET-URL ORIGIN (Repositório local para o Repositório remoto)
 - git remote -v (Verifica para onde o repositório está apontando )
+-  GIT PUSH ORIGIN MAIN (Envia alterações para repositório remoto)
 
 #### Demais comandos úteis
 
